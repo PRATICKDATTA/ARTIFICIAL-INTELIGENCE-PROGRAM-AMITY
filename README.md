@@ -1,9 +1,5 @@
-# Artificial Intelligence Lab Solutions (CSE401) - Amity University
-
 This repository contains fully formatted, properly indented, and standalone Python implementations for Artificial Intelligence Lab experiments (Q1 to Q5).
-
 ---
-
 ## 📂 Repository Contents
 
 | File | Experiment Name | Algorithm / Technique |
@@ -18,29 +14,23 @@ This repository contains fully formatted, properly indented, and standalone Pyth
 ---
 
 ## 🚀 How to Run
-
 Each file is self-contained with no external dependencies required (uses standard library modules like `collections` and `heapq`).
-
 ### 1. Water Jug Problem (BFS)
 ```bash
 python Q1_WATER_JUG_BFS.py
 ```
-
 ### 2. Greedy Best-First and A* Search
 ```bash
 python Q2_GREEDY_AND_ASTAR_SEARCH.py
 ```
-
 ### 3. Graph Colouring (Backtracking)
 ```bash
 python Q3_GRAPH_COLOURING_BACKTRACKING.py
 ```
-
 ### 4. Tic-Tac-Toe (Minimax)
 ```bash
 python Q4_TIC_TAC_TOE_MINIMAX.py
 ```
-
 ### 5. 0/1 Knapsack Problem (DP)
 ```bash
 python Q5_KNAPSACK_DP.py
